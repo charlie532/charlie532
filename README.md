@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm ShinYi</h1>
-<h3 align="center">A NYCU student from Taiwan :taiwan:</h3>
+<h3 align="center">A NYCU student from Taiwan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=charlie532&label=Profile%20views&color=0e75b6&style=flat" alt="charlie532" /> </p>
 
