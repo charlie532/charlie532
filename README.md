@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm ShinYi</h1>
 <h3 align="center">A NYCU student from Taiwan</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=charlie532&label=Profile%20views&color=0e75b6&style=flat" alt="charlie532" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=charlie532" alt="charlie532" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
